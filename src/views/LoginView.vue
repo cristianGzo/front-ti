@@ -51,3 +51,14 @@
     }
 };
 </script>
+
+
+
+
+
+<style>
+@import "/assets/vendors/bootstrap/bootstrap.min.css";
+@import "/assets/css/style.css";
+
+/* Puedes añadir estilos adicionales aquí */
+</style>
